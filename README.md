@@ -2,7 +2,7 @@
 
 simulate browser environment for automated literature retrieval
 
-C:\Windows\System32>C:\Users\YeeRhenh（这里是你的admin地址）\AppData\Local\Programs\Python\Python313\python.exe -m pip install selenium
+C:\Windows\System32>C:\Users\xxx（这里是你的admin地址）\AppData\Local\Programs\Python\Python313\python.exe -m pip install selenium
 
 ###### 安装命令：
 
