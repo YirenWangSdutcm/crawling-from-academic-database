@@ -1,4 +1,5 @@
-crawling-from-academic-database
+(b站)crawling-from-academic-database
+
 simulate browser environment for automated literature retrieval
 
 C:\Windows\System32>C:\Users\YeeRhenh（这里是你的admin地址）\AppData\Local\Programs\Python\Python313\python.exe -m pip install selenium
